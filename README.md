@@ -1,3 +1,5 @@
 <br>
-<img height = "700" src="StartingScreen.png" >
+<img src="StartingScreen.png" >
 <br>
+
+<h1>Hi!
